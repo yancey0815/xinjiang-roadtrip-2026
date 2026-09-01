@@ -1,0 +1,19 @@
+{
+  "name": "伴旅出片｜旅行规划与摄影指南",
+  "short_name": "伴旅出片",
+  "description": "路线、机位、穿搭、Pose与短视频脚本",
+  "start_url": "/xinjiang-roadtrip-2026/?shared=1&source=homescreen",
+  "scope": "/xinjiang-roadtrip-2026/",
+  "display": "standalone",
+  "background_color": "#f8f7f2",
+  "theme_color": "#172321",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/xinjiang-roadtrip-2026/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
