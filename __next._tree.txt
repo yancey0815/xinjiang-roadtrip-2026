@@ -1,2 +1,2 @@
-:HL["/xinjiang-roadtrip-2026/_next/static/chunks/0inv_2tyqqs5d.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"OFYWPyrj2_MMyVDKMPdny"}
+:HL["/xinjiang-roadtrip-2026/_next/static/chunks/09l9xcv0gg-nt.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"yiLoMIXlEQ5r4SHlD8Qs0"}
